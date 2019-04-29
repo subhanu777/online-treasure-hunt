@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title>Log in Page- Debug-O-war</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body background="image1.png">
+<form>
+<br/><br/><br/><br/><br/><br/>
+<fieldset>
+<legend><font><b><center><font style="Lucida Handwriting"><font color="white"><font size="16">Log In</center></b></font></legend>
+<br/><br/><br/>
+<font>
+<b><font color="white"><font size="16">
+Username : <input type="text"><br/><br/><br/>
+Password : <input type="text"><br/><br/><br/>
+</b>
+</font>
+</fieldset>
+</form>
+<br/><br/><br/><br/>
+<div class="container">
+<button class="btn btn1">Log In</button>
+</div>
+</body>
+</html>
